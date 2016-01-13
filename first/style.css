@@ -1,0 +1,92 @@
+body{
+}
+div{
+}
+	.wrap{
+		border: 1px solid black;
+		background-color: #ffffff;
+		padding: 10px;
+		width: 600px;
+		height: 900px;
+
+	}
+
+	.headerbox{
+		background-color: #5CB3FF;
+		height: 10%;
+		width: 100%;
+	}
+
+	.greyheader{
+		background-color: #666699;
+		height: 100%;
+		width: 34%;
+		float: right;
+	}
+
+	.whitedashright{
+		background-color: #ffffff;
+		height: 100%;
+		width: 7%;
+		float: left;
+	}
+
+	.redheader{
+		background-color: #ff0000;
+		width: 34%;
+		height: 100%;
+		float: left;
+	}
+
+	.whitedashleft{
+		background-color: #ffffff;
+		height: 100%;
+		width: 7%;
+		float: right;
+	}
+
+	.textarea{
+		background-color: #ffffff;
+		height: 31%;
+		font-family: Arial;
+		line-height: 140%;
+
+	}
+
+	.footerone{
+		background-color: #5CB3FF;
+		height: 38%;
+
+
+	}
+	.redbox{
+		height: 100%;
+		background-color: #ff0000;
+		width: 36%
+	}
+
+
+	.whitespace{
+		height: 2%;
+		width: 100%;
+		background-color: #ffffff;
+	}
+
+	.bluefooter{
+		background-color: #5CB3FF;
+		height: 16%;
+		width: 100%;
+	}
+	.smallbox{
+		width: 36%;
+		height: 100%;
+		background-color: #ff0000;
+		float: right;
+	}
+	.smallgrey{
+		width: 80%;
+		height: 100%;
+		background-color: #666699;
+		margin-left: 10%;
+
+	}
